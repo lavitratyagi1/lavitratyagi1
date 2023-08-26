@@ -46,6 +46,6 @@ Thanks for stopping by my GitHub profile. If you find something interesting, fee
 
 ## Fun Quote on Coding and Programming:
 
-"Debugging: Being the detective in a crime movie where you're also the murderer." - Filipe Fortes
-"Software and cathedrals are much the same – first we build them, then we pray." - Sam Redwine
+> "Debugging: Being the detective in a crime movie where you're also the murderer." - Filipe Fortes
+> "Software and cathedrals are much the same – first we build them, then we pray." - Sam Redwine
 
