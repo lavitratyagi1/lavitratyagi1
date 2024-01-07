@@ -10,15 +10,15 @@ I'm a Student, with a keen interest in Programming . I love diving deep into Pro
 
 Currently, I'm focusing on:
 
-- [Project 1]: A online Quiz Application.
-- [Project 2]: A online TicTacToe game.
-- [Project 3]: Exploring Android Studio.
+- [Project 1]: Learing Flutter.
+- [Project 2]: Calculator using flutter.
+- [Project 3]: Finally instagram clone using Flutter.
   
 I'm always open to collaboration and learning from others, so feel free to reach out if you're interested in any of these projects!
 
 ## 💡 What I Can Do
 
-- **Languages:** JAVA, PYTHON, C++, C, JS, C#.
+- **Languages:**   DART, PYTHON, C++, C, JS, C#.
 - **Frameworks:** **Bootstrap:** A popular front-end framework for responsive web design. I've used Bootstrap to create visually appealing and mobile-friendly websites.
                   **Flask:** A high-level Python web framework. I've utilized Flask to create robust and scalable web applications.
 - **Tools:** Android Studio, VS Code, Python IDE, Eclipse IDE, Mysql.
