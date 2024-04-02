@@ -11,7 +11,7 @@ I'm a Student, with a keen interest in Programming . I love diving deep into Pro
 Currently, I'm focusing on:
 
 - [Project 1]: Learing NodeJs.
-- [Project 2]: Chatting App use flutter and NodeJs.
+- [Project 2]: Chatting App using flutter and NodeJs.
   
 I'm always open to collaboration and learning from others, so feel free to reach out if you're interested in any of these projects!
 
