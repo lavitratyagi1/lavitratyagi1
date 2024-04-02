@@ -10,15 +10,14 @@ I'm a Student, with a keen interest in Programming . I love diving deep into Pro
 
 Currently, I'm focusing on:
 
-- [Project 1]: Learing Flutter.
-- [Project 2]: Calculator using flutter.
-- [Project 3]: Finally instagram clone using Flutter.
+- [Project 1]: Learing NodeJs.
+- [Project 2]: Chatting App use flutter and NodeJs.
   
 I'm always open to collaboration and learning from others, so feel free to reach out if you're interested in any of these projects!
 
 ## 💡 What I Can Do
 
-- **Languages:**   DART, PYTHON, C++, C, JS, C#.
+- **Languages:**   DART, NodeJs, PYTHON, C++, C, JS, C#.
 - **Frameworks:** **Bootstrap:** A popular front-end framework for responsive web design. I've used Bootstrap to create visually appealing and mobile-friendly websites.
                   **Flask:** A high-level Python web framework. I've utilized Flask to create robust and scalable web applications.
 - **Tools:** Android Studio, VS Code, Python IDE, Eclipse IDE, Mysql.
@@ -26,7 +25,7 @@ I'm always open to collaboration and learning from others, so feel free to reach
 
 ## 🌱 Learning and Growing
 
-Learning never stops! Right now, I'm honing my skills in C, C# and excited to incorporate it into my projects.
+Learning never stops! Right now, I'm honing my skills in NodeJs , PostgreSql and excited to incorporate it into my projects.
 
 ## 📫 Let's Connect
 
