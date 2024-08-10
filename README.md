@@ -1,19 +1,13 @@
-# Hi there, I'm LAVITRA TYAGI 👋
-
-Welcome to my GitHub profile! I'm passionate about Programming, and you'll find a mix of projects here that reflect my curiosity and enthusiasm for Programming and coding.
+<h1 align="center">Hi there, I'm LAVITRA TYAGI 👋</h1>
+<h3 align="center">A passionate developer from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lavitratyagi1&label=Profile%20views&color=0e75b6&style=flat" alt="lavitratyagi" /> </p>
 
 ## 🤓 About Me
 
+A passionate coder living his life in front of laptop screen.
+you'll find a mix of projects here that reflect my curiosity and enthusiasm for Programming and coding.
+
 I'm a Student, with a keen interest in Programming . I love diving deep into Programming and creating App and Website.
-
-## 🚀 What I'm Working On
-
-Currently, I'm focusing on:
-
-- [Project 1]: Learing NodeJs.
-- [Project 2]: Chatting App using flutter and NodeJs.
-  
-I'm always open to collaboration and learning from others, so feel free to reach out if you're interested in any of these projects!
 
 ## 💡 What I Can Do
 
@@ -25,7 +19,7 @@ I'm always open to collaboration and learning from others, so feel free to reach
 
 ## 🌱 Learning and Growing
 
-Learning never stops! Right now, I'm honing my skills in NodeJs , PostgreSql and excited to incorporate it into my projects.
+Learning never stops! Right now, I'm honing my skills in SpringBoot , PostgreSql/Mongodb and excited to incorporate it into my projects.
 
 ## 📫 Let's Connect
 
@@ -35,9 +29,11 @@ You can find me on:
 
 Feel free to reach out for a chat, collaboration, or even just to share your thoughts on any topic related to programming.
 
-## 🎉 Thanks for Visiting
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lavitratyagi1&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lavitratyagi1&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavitratyagi1&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-Thanks for stopping by my GitHub profile. If you find something interesting, feel free to star or fork a repository. Let's inspire and learn from each other!
 
 ## Thought on Coding and Programming:
 
@@ -49,3 +45,4 @@ Thanks for stopping by my GitHub profile. If you find something interesting, fee
 
 > "Software and cathedrals are much the same – first we build them, then we pray."
 
+---
