@@ -29,7 +29,7 @@ You can find me on:
 
 Feel free to reach out for a chat, collaboration, or even just to share your thoughts on any topic related to programming.
 
-# 📊 GitHub Stats:
+# ⚡ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lavitratyagi1&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lavitratyagi1&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lavitratyagi1&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
