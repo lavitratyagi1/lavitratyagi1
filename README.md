@@ -26,6 +26,7 @@ Learning never stops! Right now, I'm honing my skills in SpringBoot , PostgreSql
 You can find me on:
 
 - [Instagram] https://instagram.com/lavitra_tyagi
+- [Linkdin] https://www.linkedin.com/in/lavitra-tyagi-ab376b296/
 
 Feel free to reach out for a chat, collaboration, or even just to share your thoughts on any topic related to programming.
 
