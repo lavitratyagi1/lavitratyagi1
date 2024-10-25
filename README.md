@@ -12,8 +12,6 @@ I'm a Student, with a keen interest in Programming . I love diving deep into Pro
 ## 💡 What I Can Do
 
 - **Languages:**   DART, NodeJs, PYTHON, C++, C, JS, C#.
-- **Frameworks:** **Bootstrap:** A popular front-end framework for responsive web design. I've used Bootstrap to create visually appealing and mobile-friendly websites.
-                  **Flask:** A high-level Python web framework. I've utilized Flask to create robust and scalable web applications.
 - **Tools:** Android Studio, VS Code, Python IDE, Eclipse IDE, Mysql.
 - **Skills:** App Devlopment, Web Devlopment.
 
